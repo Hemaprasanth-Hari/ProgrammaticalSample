@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ProgrammaticalSample",
   "resources": {
-    "hash": "sha256-kI1/ZdlwbdR4HGW5iKlS9PTzk5nFrJY0vlyUzlP3fp0=",
+    "hash": "sha256-qe1YgIwLCPkQcbBiIn3OVdqjY4wnT7GxrlImeYmO3LI=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.3i958azn9b.js": "sha256-9HuMzEApJA1ELmFZGvqVZQuNl1kTDEA//DK0lf9pRaI="
     },
@@ -38,7 +38,7 @@
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-Kr13V+6zGL8rPvFmuBAsaEJfoMlR4Q8keJHKaVGVbGA=",
       "netstandard.wasm": "sha256-zsEQzt77d6UWl0i9oaPlFtQLoHxGJjjKNOhgz/jNcRk=",
       "Newtonsoft.Json.wasm": "sha256-erKuIr8Gjq+X/Ji4X+pGauW71/eyGT7GHVu8k+7ie8I=",
-      "ProgrammaticalSample.wasm": "sha256-q2GstKCLfMZZPJLDe5pxikyi6N8kGLicCfe9GHuXf6s=",
+      "ProgrammaticalSample.wasm": "sha256-Tzji9d4KN/Sr0jyq5v+fBuQ/YUKyaLU0woryLDMjCGc=",
       "SkiaSharp.HarfBuzz.wasm": "sha256-t3xyO05X9FNIUTiAyUfklCk7XKzlcPuxiMnTIY4LZCI=",
       "SkiaSharp.wasm": "sha256-M21PipvKtYPfIJMnJliO5Y/2/QQ4Cbbx8RIWHnsL5bM=",
       "Syncfusion.Blazor.Buttons.wasm": "sha256-8XMOeLJ3zUr0SaCKgDCnZcG0DFviEbJcfCN9kVk5UWA=",
